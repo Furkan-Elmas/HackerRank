@@ -1,0 +1,15 @@
+C:\Users\Furkan Elmas\Desktop\Ödev1\Class vs. Instance\bin\Debug\net6.0\Class vs. Instance.exe
+C:\Users\Furkan Elmas\Desktop\Ödev1\Class vs. Instance\bin\Debug\net6.0\Class vs. Instance.deps.json
+C:\Users\Furkan Elmas\Desktop\Ödev1\Class vs. Instance\bin\Debug\net6.0\Class vs. Instance.runtimeconfig.json
+C:\Users\Furkan Elmas\Desktop\Ödev1\Class vs. Instance\bin\Debug\net6.0\Class vs. Instance.dll
+C:\Users\Furkan Elmas\Desktop\Ödev1\Class vs. Instance\bin\Debug\net6.0\Class vs. Instance.pdb
+C:\Users\Furkan Elmas\Desktop\Ödev1\Class vs. Instance\obj\Debug\net6.0\Class vs. Instance.csproj.AssemblyReference.cache
+C:\Users\Furkan Elmas\Desktop\Ödev1\Class vs. Instance\obj\Debug\net6.0\Class vs. Instance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan Elmas\Desktop\Ödev1\Class vs. Instance\obj\Debug\net6.0\Class vs. Instance.AssemblyInfoInputs.cache
+C:\Users\Furkan Elmas\Desktop\Ödev1\Class vs. Instance\obj\Debug\net6.0\Class vs. Instance.AssemblyInfo.cs
+C:\Users\Furkan Elmas\Desktop\Ödev1\Class vs. Instance\obj\Debug\net6.0\Class vs. Instance.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Elmas\Desktop\Ödev1\Class vs. Instance\obj\Debug\net6.0\Class vs. Instance.dll
+C:\Users\Furkan Elmas\Desktop\Ödev1\Class vs. Instance\obj\Debug\net6.0\refint\Class vs. Instance.dll
+C:\Users\Furkan Elmas\Desktop\Ödev1\Class vs. Instance\obj\Debug\net6.0\Class vs. Instance.pdb
+C:\Users\Furkan Elmas\Desktop\Ödev1\Class vs. Instance\obj\Debug\net6.0\Class vs. Instance.genruntimeconfig.cache
+C:\Users\Furkan Elmas\Desktop\Ödev1\Class vs. Instance\obj\Debug\net6.0\ref\Class vs. Instance.dll
