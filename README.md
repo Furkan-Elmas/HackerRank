@@ -1,2 +1,2 @@
 # HackerRank
- bulk repository for hackerrank
+ Bulk-served repository for hackerrank
