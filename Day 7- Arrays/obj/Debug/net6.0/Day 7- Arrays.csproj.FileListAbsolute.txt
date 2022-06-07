@@ -1,0 +1,15 @@
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\HackerRank\Day 7- Arrays\bin\Debug\net6.0\Day 7- Arrays.exe
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\HackerRank\Day 7- Arrays\bin\Debug\net6.0\Day 7- Arrays.deps.json
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\HackerRank\Day 7- Arrays\bin\Debug\net6.0\Day 7- Arrays.runtimeconfig.json
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\HackerRank\Day 7- Arrays\bin\Debug\net6.0\Day 7- Arrays.dll
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\HackerRank\Day 7- Arrays\bin\Debug\net6.0\Day 7- Arrays.pdb
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\HackerRank\Day 7- Arrays\obj\Debug\net6.0\Day 7- Arrays.csproj.AssemblyReference.cache
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\HackerRank\Day 7- Arrays\obj\Debug\net6.0\Day 7- Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\HackerRank\Day 7- Arrays\obj\Debug\net6.0\Day 7- Arrays.AssemblyInfoInputs.cache
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\HackerRank\Day 7- Arrays\obj\Debug\net6.0\Day 7- Arrays.AssemblyInfo.cs
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\HackerRank\Day 7- Arrays\obj\Debug\net6.0\Day 7- Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\HackerRank\Day 7- Arrays\obj\Debug\net6.0\Day 7- Arrays.dll
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\HackerRank\Day 7- Arrays\obj\Debug\net6.0\refint\Day 7- Arrays.dll
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\HackerRank\Day 7- Arrays\obj\Debug\net6.0\Day 7- Arrays.pdb
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\HackerRank\Day 7- Arrays\obj\Debug\net6.0\Day 7- Arrays.genruntimeconfig.cache
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\HackerRank\Day 7- Arrays\obj\Debug\net6.0\ref\Day 7- Arrays.dll
