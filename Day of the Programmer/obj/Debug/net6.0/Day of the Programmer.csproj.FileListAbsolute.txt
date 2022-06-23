@@ -1,0 +1,5 @@
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\HackerRank\Day of the Programmer\obj\Debug\net6.0\Day of the Programmer.csproj.AssemblyReference.cache
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\HackerRank\Day of the Programmer\obj\Debug\net6.0\Day of the Programmer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\HackerRank\Day of the Programmer\obj\Debug\net6.0\Day of the Programmer.AssemblyInfoInputs.cache
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\HackerRank\Day of the Programmer\obj\Debug\net6.0\Day of the Programmer.AssemblyInfo.cs
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\HackerRank\Day of the Programmer\obj\Debug\net6.0\Day of the Programmer.csproj.CoreCompileInputs.cache
